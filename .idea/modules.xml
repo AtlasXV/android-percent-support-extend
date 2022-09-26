@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PercentSupportExtend.iml" filepath="$PROJECT_DIR$/PercentSupportExtend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/percent-support-extends/percent-support-extends.iml" filepath="$PROJECT_DIR$/percent-support-extends/percent-support-extends.iml" />
-      <module fileurl="file://$PROJECT_DIR$/percent-support-extends-sample/percent-support-extends-sample.iml" filepath="$PROJECT_DIR$/percent-support-extends-sample/percent-support-extends-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-percent-support-extend.iml" filepath="$PROJECT_DIR$/.idea/modules/android-percent-support-extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-percent-support-extend.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends-sample/android-percent-support-extend.percent-support-extends-sample.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.main.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/percent-support-extends/android-percent-support-extend.percent-support-extends.unitTest.iml" />
     </modules>
   </component>
 </project>

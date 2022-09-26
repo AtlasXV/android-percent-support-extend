@@ -1,12 +1,13 @@
 package com.imooc.android_percent_support;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import androidx.appcompat.app.AppCompatActivity;
 
-public class ItemActivity extends ActionBarActivity
+
+public class ItemActivity extends AppCompatActivity
 {
 
     @Override
